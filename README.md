@@ -14,5 +14,13 @@ Caso não saiba como pegar segue a instrução abaixo:
 
 <p>
     Após fazer tudo isso e iniciar seu site, basta abrir o <a href="https://discord.com/developers/active-developer">painel de desenvolvedores ativos</a> para resgatar o seu selo <br/>
+</p>
+
+<h2>Como iniciar sua aplicação?</h2>
+
+<p>
+
+- npm install
+- node index.js
 
 </p>
